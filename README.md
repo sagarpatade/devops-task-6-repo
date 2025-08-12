@@ -28,7 +28,8 @@ Edit
 5. Accessed the live site from the provided link
 
 ## 📸 Screenshot
-![Website Screenshot](screenshot.png)
+<img width="1919" height="1016" alt="Screenshot 2025-08-12 125556" src="https://github.com/user-attachments/assets/724a4b5b-44e2-4dc1-9eaf-b123153e9259" />
+
 
 ## 🙏 Acknowledgement
 A heartfelt thank you to **Elevate Labs** for offering opportunities to students and helping them gain industry-level skills.
