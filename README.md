@@ -4,7 +4,7 @@ This is a simple static website hosted using **GitHub Pages**, created as part o
 The page is a token of appreciation from students to **Elevate Labs** for providing free internships to help students improve their knowledge and skills.
 
 ## 🌐 Live Website
-[Click here to visit](https://YOUR-GITHUB-USERNAME.github.io/github-page-task/)
+[Click here to visit](https://sagarpatade.github.io/devops-task-6-repo/)
 
 ## 📂 Project Structure
 .
